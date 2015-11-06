@@ -459,7 +459,6 @@
         <enabled>true</enabled>
       </releases>
     </repository>
-    <repositories>
        <repository>
       <id>fusesource.m2</id>
       <name>FuseSource Community Release Repository</name>
