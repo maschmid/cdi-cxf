@@ -483,7 +483,6 @@
       </releases>
     </repository>
 
-    <repositories>
         <repository>
           <id>jboss-ga-repository</id>
           <url>http://maven.repository.redhat.com/techpreview/all</url>
@@ -494,7 +493,6 @@
             <enabled>false</enabled>
           </snapshots>
         </repository>
-      </repositories>
 
   </repositories>
 
